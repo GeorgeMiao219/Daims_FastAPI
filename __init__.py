@@ -1,0 +1,1 @@
+from auth import app, oauth2_scheme
